@@ -198,8 +198,11 @@ Private Sub ListView1_ItemLongClick (Position As Int, Value As Object)
 			Dim mapEntry As Map = Value
 			UpdateRow(mapEntry)
 		Case 1 ' Delete
-			Dim mapEntry2 As Map = Value
-			deleteData(mapEntry2.Get("objectId"))
+			Dim mapEntry2 As Map = Value			
+			Wait For (deleteData(mapEntry2.Get("objectId"))) Complete (ans As Boolean)
+			If ans Then
+				sendBack4AppRequest
+			End If
 		Case Else
 			Return
 	End Select

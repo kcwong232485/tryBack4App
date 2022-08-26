@@ -10,6 +10,6 @@ ModuleClosedNodes0=2
 ModuleClosedNodes1=
 ModuleClosedNodes2=
 ModuleClosedNodes3=1
-NavigationStack=NextDemo,Activity_Create,31,0,NextDemo,InsertRow,228,6,NextDemo,UpdateRow,250,6,NextDemo,Globals,15,0,clsConfig,Initialize,13,0,clsConfig,Class_Globals,5,0,Main,Globals,22,0,NextDemo,sendBack4AppRequest,53,0,NextDemo,deleteData,76,0,NextDemo,sendData,105,1
+NavigationStack=NextDemo,InsertRow,228,6,clsConfig,Initialize,13,0,clsConfig,Class_Globals,5,0,Main,Globals,22,0,NextDemo,sendBack4AppRequest,53,0,NextDemo,sendData,105,1,NextDemo,Globals,16,0,NextDemo,deleteData,73,0,NextDemo,UpdateRow,250,6,NextDemo,ListView1_ItemLongClick,196,0
 SelectedBuild=0
 VisibleModules=3,1,2
