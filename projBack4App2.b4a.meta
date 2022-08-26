@@ -1,0 +1,15 @@
+﻿ModuleBookmarks0=
+ModuleBookmarks1=
+ModuleBookmarks2=
+ModuleBookmarks3=
+ModuleBreakpoints0=
+ModuleBreakpoints1=
+ModuleBreakpoints2=75
+ModuleBreakpoints3=
+ModuleClosedNodes0=2
+ModuleClosedNodes1=
+ModuleClosedNodes2=
+ModuleClosedNodes3=1
+NavigationStack=Main,Activity_Resume,34,6,Main,Button1_Click,54,0,Main,Exit_Click,49,0,Main,Button2_Click,48,2,Main,NextDemo_Click,44,0,clsConfig,Class_Globals,0,0,clsConfig,Initialize,15,0,NextDemo,sendData,146,0,NextDemo,Activity_Create,31,0,NextDemo,InsertRow,228,6,NextDemo,UpdateRow,250,6
+SelectedBuild=0
+VisibleModules=3,1,2
