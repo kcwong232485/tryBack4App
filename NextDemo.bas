@@ -138,7 +138,7 @@ Sub sendData(i_type As String, i_id As String, i_name As String, i_email As Stri
 	ProgressDialogHide
 	Dim isSent As Boolean 
 	If j.Success Then
-		Log(j.GetString)
+		Log(j.GetString)		
 		Try
 			Dim jparser As JSONParser
 			jparser.Initialize(j.GetString)
